@@ -1,0 +1,12 @@
+
+.things-list li {
+  list-style: none;
+}
+
+.thing-item {
+  margin: 10px auto;
+}
+
+.thing-name {
+  margin: 10px 20px;
+}

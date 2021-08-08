@@ -1,0 +1,30 @@
+*, html, body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 95%;
+  margin: 0 5%;
+}
+
+.btn {
+  padding: 5px 10px;
+  background-color: rgb(237, 237, 237);
+  border: none;
+  border-radius: 2px;
+}
+
+.btn-danger {
+  background-color: red;
+}
+
+.btn-success {
+  background-color: green;
+}
+
+.btn-warning {
+  background-color: yellow;
+}
